@@ -52,10 +52,13 @@ This solution ensures the following:
 - **Least Privilege**: **IAM roles** are configured with minimal permissions, ensuring that only authorized entities can access the services.
 - **Scalability**: The system is built to scale with patient volume, leveraging **AWS Lambda** for event-driven processing and **SNS** for high-throughput message delivery.
 
-## 🚀 Getting Started
+## 🤝 Contact
 
-To deploy this project in your AWS environment:
+Feel free to reach out if you have any questions, suggestions, or would like to discuss this project further:
 
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/Healthcare-Cloud-Solution-Secure-Patient-Record-Delivery-with-AWS-SNS-and-Lambda.git
+- **Email**: rizvanabegumt@outlook.com
+- **LinkedIn**: www.linkedin.com/in/rizvanabegum
+- **GitHub**: https://github.com/RizvanaBegum
+
+I'm always open to collaborating or discussing improvements on this project. Let's connect!
+
